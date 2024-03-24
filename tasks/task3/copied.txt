@@ -1,0 +1,3 @@
+Hello
+This file is generated using "cp" command.
+Thanks
